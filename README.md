@@ -11,3 +11,4 @@ Ingeniería de sistemas UdeA - Modalidad virtual
 Se agrega el segundo archivo 02 - preprocesado.ipynb el cual tiene todo el preprocesamiento de los datos.
 
 Video de la entrega: 
+https://youtu.be/oa6ZUcm3KPI
