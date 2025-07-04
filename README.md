@@ -20,7 +20,7 @@ Se agregan los siguentes archivos con preprocesados para hallar la combinación 
 - 04 - modelo con preprocesado eficiente y Regresión Logística.ipynb
 - 05 - modelo con feature engineering y Gradient Boosting.ipynb
 
-y finalmente después de escojer el mejor preprocesado y modelo, se agrega el archivo 99 - modelo solución.ipynb donde tenemos la solución final que mejor predicciones nos dió.
+y finalmente después de escojer el mejor preprocesado y modelo, se agrega el archivo 99 - modelo solución.ipynb donde realizamos todo lo aprendido de las anteriores entregas y contiene la solución final que mejor predicciones nos dió.
 
 Video de la entrega: 
 https://www.youtube.com/watch?v=HAhWh-7EGzI
