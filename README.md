@@ -12,3 +12,15 @@ Se agrega el segundo archivo 02 - preprocesado.ipynb el cual tiene todo el prepr
 
 Video de la entrega: 
 https://youtu.be/oa6ZUcm3KPI
+
+## Entrega #3 (FINAL)
+Se agregan los siguentes archivos con preprocesados para hallar la combinación de preprocesado y modelo que nos de mejores predicciones: 
+
+- 03 - preprocesado-test.ipynb
+- 04 - modelo con preprocesado eficiente y Regresión Logística.ipynb
+- 05 - modelo con feature engineering y Gradient Boosting.ipynb
+
+y finalmente después de escojer el mejor preprocesado y modelo, se agrega el archivo 99 - modelo solución.ipynb donde tenemos la solución final que mejor predicciones nos dió.
+
+Video de la entrega: 
+https://www.youtube.com/watch?v=HAhWh-7EGzI
